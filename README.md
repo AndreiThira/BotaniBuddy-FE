@@ -27,7 +27,7 @@ The BackEnd can be found [here](https://github.com/AndreiThira/BotaniBuddy-BE-fo
 - **@expo-google-fonts/itim**: A package for loading the "Itim" font via Expo Google Fonts.
 - **@babel/core**: The core Babel library for JavaScript transpilation.
 
-## Usage Guide
+## Usage Guide <a name="Installation"></a>
 
 The app is optimized for iOS, but some considerations have been made for Android by including a ratio function for the camera. While the application is not yet hosted, you can access it locally by following these steps:
 
