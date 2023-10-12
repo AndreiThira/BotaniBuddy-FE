@@ -27,7 +27,9 @@ The BackEnd can be found [here](https://github.com/AndreiThira/BotaniBuddy-BE-fo
 - **@expo-google-fonts/itim**: A package for loading the "Itim" font via Expo Google Fonts.
 - **@babel/core**: The core Babel library for JavaScript transpilation.
 
-## Usage Guide <a name="Installation"></a>
+***
+
+### Usage Guide <a name="Installation"></a>
 
 The app is optimized for iOS, but some considerations have been made for Android by including a ratio function for the camera. While the application is not yet hosted, you can access it locally by following these steps:
 
@@ -57,7 +59,6 @@ The app is optimized for iOS, but some considerations have been made for Android
 
 6. **QR Code Scanning**:
    - The above command should return a QR code on your terminal.
-   - Open the Expo Go app on your mobile device.
    - Use your phone's camera to scan the QR code displayed in the terminal. This will open the Expo app and begin loading your application.
 
 7. **Explore the Application**:
